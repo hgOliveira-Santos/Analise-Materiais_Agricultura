@@ -47,9 +47,5 @@ O conjunto de dados analisado é armazenado no arquivo `agricultural_raw_materia
 - Preços de matérias-primas agrícolas.
 - Variações percentuais mês a mês.
 
-## Autor
-
-Este projeto foi desenvolvido para fins educacionais e demonstrações de análise de dados.
-
 ---
 
