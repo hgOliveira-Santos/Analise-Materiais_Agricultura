@@ -25,14 +25,7 @@ Este projeto utiliza Python para realizar uma análise exploratória em um conju
 5. **Perguntas Respondidas**:
    - **Q1:** Qual a variação normal do preço de cada matéria-prima?
    - **Q2:** Qual matéria-prima tem o menor preço ao longo dos anos?
-   - Comparação entre os preços do algodão e da borracha.
-
-## Como Executar
-
-1. Certifique-se de que você possui o Python 3.x instalado.
-2. Instale as dependências listadas no notebook (`numpy`, `pandas`, `matplotlib`, `seaborn`).
-3. Carregue o notebook (`.ipynb`) no Jupyter Notebook ou JupyterLab.
-4. Execute cada célula sequencialmente para reproduzir a análise.
+      - Comparação entre os preços do algodão e da borracha.
 
 ## Visualizações
 
